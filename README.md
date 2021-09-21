@@ -1,4 +1,4 @@
-# Django_ToDoList
+# Tkinter_ToDoList
 
 To do list created in python using tkinter and sqlite3
 
